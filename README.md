@@ -128,4 +128,4 @@ Earlier versions used the editor's display positions instead of stored parameter
 
 ---
 
-Free to use. Not affiliated with or endorsed by Valeton or Hotone.
+Free to use under the [MIT License](LICENSE). Not affiliated with or endorsed by Valeton or Hotone.
